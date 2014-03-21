@@ -18,7 +18,7 @@ Start up Brackets, click on File, and choose...
 
 ...and bask in the glory of accessing any of your extensions for development!
 
-Assuming you've installed this extension before you read that last instruction. If not, install the extension and then go back up there where starts to say "Start up Brackets" to try again. Then bask in the glory of accessing any of your extensions for development.
+Assuming you've installed this extension before you read that last instruction. If not, install the extension and then go back up there where it starts to say "Start up Brackets" to try again. Then bask in the glory of accessing any of your extensions for development.
 
 No worries if you somehow basked in the glory twice.
 
