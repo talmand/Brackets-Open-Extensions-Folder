@@ -1,0 +1,11 @@
+{
+    "name": "talmand.open-extensions-folder",
+    "title": "Open Extensions Folder",
+    "description": "Opens the user extensions folder as a project.",
+    "homepage": "https://github.com/talmand/Brackets-Open-Extensions-Folder",
+    "version": "1.0.0",
+    "author": "Travis Almand",
+    "engines": {
+        "brackets": ">=0.35.0"
+    }
+}
